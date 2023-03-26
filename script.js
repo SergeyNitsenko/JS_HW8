@@ -73,6 +73,8 @@
         }
         .backgroundCard2 {
             background-color: #8F75BE;
+            border-top-right-radius: 5px;
+            border-bottom-right-radius: 5px;
         }
         .textCard {
             font-size: 12px;
